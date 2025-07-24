@@ -1,6 +1,6 @@
 .odd {
     background-color: #ff006375;
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .cool {
@@ -8,12 +8,12 @@
 }
 
 #blu {
-    color: #0001FF;
+    color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
 #foor {
-    background-color: #00FF0890;
+    background-color: hsla(120, 100%, 50%, 90%);
     font-size: 24px;
     font-weight: bold;
 }
